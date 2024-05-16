@@ -20,7 +20,7 @@ Daftar tools dan framework yang digunakan dalam project ini:
 - others
 
 ## Architecture Diagram
- ![ETL Diagram](?raw=true)
+ ![ETL Diagram](https://github.com/ddzikri/mini-project/blob/main/ETL_DIAGRAM.png?raw=true)
 
 ## Setup 
 ### Langkah 1: Persiapan Lingkungan
