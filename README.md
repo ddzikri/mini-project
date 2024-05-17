@@ -59,9 +59,14 @@ Pastikan Anda telah menginstal Tools dan Library yang diperlukan:
 
 
 ### Langkah 5: Visualisasi Data
-1. Buat script prompt Implementasi AI untuk analisis visualisasi data (optional)
+1. Buat script prompt Implementasi AI untuk analisis visualisasi data (optional).
 2. Menggunakan Matplotlib, Seaborn dan plotly express agar tampilan visualisasi menarik.
 
+### Langkah 6: Apache Airflow WSL Ubuntu 
+1. Install Apache airflow di WSL ubuntu. 
+2. Buat Folder Dags dan masukan file yang diperlukan.
+3. Jalankan Airflow with command 'airflow standalone'
+4. Liat hasilnya dags di localhost:8080.
 
 ### Kata-kata Terakhir
 Proyek ini hadir ketika kesepian datang dan rasa penyesalan larut didalam kesepian itu sendiri. terimakasih buat mentor dan teman-teman yang selalu support proyek ini!!.
