@@ -69,4 +69,4 @@ Pastikan Anda telah menginstal Tools dan Library yang diperlukan:
 4. Liat hasilnya dags di localhost:8080.
 
 ### Kata-kata Terakhir
-Proyek ini hadir ketika kesepian datang dan rasa penyesalan larut didalam kesepian itu sendiri. terimakasih buat mentor dan teman-teman yang selalu support proyek ini!!.
+Jangan patah semangat!!!. 
